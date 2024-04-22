@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "708047736437",
+    "project_id": "libsyapp",
+    "storage_bucket": "libsyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708047736437:android:132dd2187cf2791bd4323c",
+        "android_client_info": {
+          "package_name": "com.libs.libsy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Q6oQZzJQK00RFh14Hmv-HCR_Rcb7KeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708047736437:android:b1a0c13f664def30d4323c",
+        "android_client_info": {
+          "package_name": "com.libs.libsy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Q6oQZzJQK00RFh14Hmv-HCR_Rcb7KeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

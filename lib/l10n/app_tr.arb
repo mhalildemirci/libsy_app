@@ -1,0 +1,568 @@
+{
+    "@@locale": "tr",
+    "books":"Kitaplar",
+    "categories":"Kategoriler",
+    "essays":"Makaleler",
+    "read":"Oku",
+    "list":"Listem",
+    "newBooks":"Yeni Kitaplar",
+    "forYouRecommends":"Senin İçin Önerilenler",
+    "interestendyoubooks":"İlginizi Çekecek Kitaplar",
+    "dramaticArtifacts":"Dramatik Eserler",
+    "worldOfClassics":"Dünya Klasikleri",
+    "fullofLovecNovels":"Aşk Dolu Romanlar",
+    "a modest proposal.jpg":
+          "  İrlandalı yazar Jonathan Swift tarafından 1729 yılında yayımlanmış bir makaledir. Bu makale, İngiliz İmparatorluğu'nun İrlanda'yı yönetimine eleştirel bir yanıt olarak yazılmıştır. Swift, İrlanda'nın yoksulluğunu ve İngiliz hükümetinin ihmalkarlığını ele alırken, aynı zamanda mizahi bir üslupla toplumsal sorunlara dikkat çekmektedir.",
+      "a vital problem of married.jpg":
+          "Gibbs, evliliğin sekizinci yılının zorluklarını ve çiftlerin bu hassas dönemde nasıl yol alabileceğini araştırıyor. Bu eser akademisyenler tarafından kültürel açıdan önemli olduğu gerekçesiyle seçilmiştir ve bildiğimiz şekliyle medeniyetin bilgi tabanının bir parçasıdır.",
+      "Alices Adventures in Wonderland.jpg":
+          "Irmağın kıyısında ablasıyla oturmaktan Alice'in canı sıkılmıştı. Üstelik yapacak bir şey yoktu. Bir iki kere ablasının elindeki kitaba şöyle bir göz attıysa da ne resim görebilmişti ne de diyalog, 'İyi ama resimsiz ve diyalogsuz bir kitap neye yarar ki?' diye düşündü.",
+      "An Elegy on the Glory of her Sex.jpg":
+          "Goldsmith, 18. yüzyıl İngiliz şairlerinden biridir ve bu şiir, toplumda kadınların yerine ve önemine odaklanır.Şiir, Mary Blaize adlı bir kadının ölümü üzerine yazılmış bir ağıttır.",
+      "beyond good and evil.jpg":
+          "İyinin ve Kötünün Ötesinde: Gelecekteki bir Felsefeye Giriş, Alman filozof Friedrich Nietzsche tarafından yazılmış, 1886 yılında yayınlanmış kitaptır.",
+      "poemsjpg":
+          "Oscar Wilde, 19. yüzyıl İrlandalı yazar, oyun yazarı ve şairdir. En çok tiyatro oyunları ve hicivli eserleriyle tanınır, ancak aynı zamanda şair olarak da önemli eserler bırakmıştır. Wilde'ın şiirleri, genellikle estetik ve duygusal derinlikle dikkat çeker ve genellikle ironi ve zeka ile işlenir.",
+      "11 Intentions.jpg":
+          "Oscar Wilde 19. yüzyıl İrlandalı yazar, oyun yazarı ve şairdir. En çok tiyatro oyunları ve hicivli eserleriyle tanınır, ancak aynı zamanda şair olarak da önemli eserler bırakmıştır. Wilde'ın şiirleri, genellikle estetik ve duygusal derinlikle dikkat çeker ve genellikle ironi ve zeka ile işlenir.",
+      "A Connecticut Yankee in King Arthurs Court.jpg":
+          " Roman, Hank Morgan adında bir Connecticut'lıyı anlatır. Bir gün, bir kaza sonucu Kral Arthur'un zamanına,  yani Orta Çağ İngiltere'sine düşer. Hank Morgan, modern bilgi ve teknolojiden yararlanarak, Orta Çağ toplumunu dönüştürmeye karar verir.",
+      "A Short History of the World.jpg":
+          " A Short History of the World, İngiliz yazar H. G. Wells'in insanlık tarihi üzerine yazdığı bir eserdir.",
+      "a tale of two cities.jpg":
+          "İki Şehrin Hikâyesi, Charles Dickens'ın 1859 yılında gazetelerde tefrika edilmek üzere yazdığı, konusu Fransız Devrimi esnasında ve öncesinde Paris ve Londra'da geçen romandır. ",
+      "A Tangled Tale.jpg":
+          "Lewis Carroll'un Nisan 1880 ile Mart 1885 arasında The Monthly Packet dergisinde seri olarak yayınlanan 10 kısa mizahi öyküsünden oluşan bir koleksiyon.",
+      "a treatise of human nature.jpg":
+          "İnsan Doğası Üzerine Bir İnceleme: Ahlaki Konulara Deneysel Akıl Yürütme Yöntemini Tanıtma Girişimi Olmak, İskoç filozof David Hume'un bir kitabıdır.",
+      "a vısıt to three fonts.jpg":
+          "Doyle, savaş sırasında savaşın gerçek yüzünü görmek için Fransa, Belçika ve İtalya cephelerini ziyaret etti. bu ziyaretlerin ardından kaleme alınan bir seridir ve savaşın vahşetini, insanlık dramını ve cesaretini gözler önüne serer.",
+      "adventures in journalism.jpg":
+          " Philip Gibbs tarafından yazılmış bir kitaptır. Philip Gibbs, İngiliz bir gazeteci ve yazardır. Gibbs'in gazetecilik kariyeri boyunca yaşadığı deneyimleri ve gözlemlerini içeren bir anı kitabıdır.",
+      "Adventures of Huckleberry Finn.jpg":
+          " Huck Finn'in kaçak köle Jim ile birlikte geçirdiği zamanı ve onun köleliğe karşı içsel mücadelesini odaklanır. Huck, toplumun ona dayattığı değerlerle kendi vicdanı arasında bir çatışma yaşar ve sonunda Jim'in özgürlüğü için mücadele etmeye karar verir.",
+      "alemdagda bir yilan.jpg":
+          "1950 yılında yayımlanan bu kitap, yazarın kısa öyküleriyle doludur ve genellikle doğa, insan ilişkileri, toplumun çeşitli kesimleri ve İstanbul'un sokakları gibi konuları ele alır.",
+      "atesten gomlek.jpg":
+          "Roman, ana karakter olan Selma'nın yaşadığı hayatı ve Türk Kurtuluş Savaşı'nın etkilerini anlatır. Selma, savaşın ve toplumsal çalkantıların ortasında kendi kimliğini ve inançlarını bulmaya çalışır.",
+      "bleak house.jpg":
+          " Roman, bir yanda varlıklı bir miras davası olan Jarndyce ve Jarndyce davası etrafında dönerken, diğer yanda bu davaya karışmış olan farklı karakterlerin hayatlarını ve ilişkilerini inceler.",
+      "candide.jpg":
+          "Candide, yüzündeki cahil iyimserlikle tanınan ve Pangloss adlı bir filozofun 'bu dünya en iyi dünya' tezini savunan bir gençtir. Ancak Candide, hayatın gerçekleriyle yüzleşmek zorunda kalır ve yaşadığı trajediler sonucunda iyimserliğini yitirir.",
+      "an enquiry concerning human understanding.jpg":
+          "Hume, insanın bilgi ve deneyim yoluyla nasıl bilgi elde ettiğini araştırır ve insan zihninin sınırlarını inceler. Eserde, nedensellik, özdeşlik, uzay-zaman, nedensellik ve olasılık gibi konuları ele alır.",
+      "an enquiry concerning the principles of morals.jpg":
+          "Hume, ahlakın temellerini araştırırken insan doğasını ve ahlaki değerleri inceler. Ona göre, ahlaki değerlerin kökeni sadece akıl veya Tanrı'nın iradesi değil, aynı zamanda insanın doğasından kaynaklanır.",
+      "Ann Veronica.jpg":
+          "Ann Veronica, bağımsızlık arzusuyla dolu bir genç kadındır. Toplumsal normlara ve cinsiyet rollerine meydan okuyarak, kendi hayatını yönlendirmeye ve kendi kararlarını almaya karar verir.",
+      "Around the World in 80 Days.jpg":
+          "Phileas Fogg, Londra'dan başlayarak dünyayı 80 günde dolaşmak için bir iddiaya girer. Hizmetçisi Passepartout ile birlikte  tren, gemi ve diğer ulaşım araçlarını kullanarak çeşitli ülkeleri ve kıtaları ziyaret ederler. Ancak yolculukları boyunca, bir dedektif ve çeşitli zorluklarla karşılaşırlar.",
+      "balkan harbi.jpg":
+          " Osmanlı İmparatorluğu'nun Balkanlar'da yaşadığı savaşlardan birini konu alır. Ömer Seyfettin'in genellikle savaşın insanlar üzerindeki  etkilerini ve yarattığı trajedileri anlattığı bu hikaye, savaşın yıkıcı doğasını ve insanların savaş sırasında nasıl değiştiğini gösterir.",
+      "barnaby rudge.jpg":
+          "Barnaby, basit ve masum bir gençtir, ancak annesi onu etkisi altına alan karanlık sırlarla doludur. Roman, Barnaby'nin yaşadığı toplumsal ve siyasi çalkantılarla birlikte onun içsel dünyasını da inceler.",
+      "Benjamin Franklin.jpg":
+          "  Franklin, kitabında kendi hayatından kesitler sunar ve okuyuculara başarıya giden yolda değerli dersler verir.",
+      "bes sehir.jpg":
+          "Ahmet Hamdi Tanpınar'ın, hayatının tesadüfleri olan Ankara, Erzurum, Konya, Bursa, İstanbul şehirlerini anlattığı deneme türü eseri.",
+      "cakicinin ilk kursunu.jpg":
+          " Aydın'da yaşamış olan ünlü bir eşkıyanın, Çakırcalı Mehmet Efe veya Çakıcı Efe denen eşkıyanın Hikâyesi.",
+      "daniel deronda.jpg":
+          "Roman, İngiliz toplumunun farklı kesimlerini, Yahudi kimliğini ve İngiliz İmparatorluğu'nun etkilerini incelerken, karakterlerin kişisel ve toplumsal gelişimlerini ele alır.",
+      "dirilen iskelet.jpg":
+          "Osmanlı toplumunun çeşitli kesitlerini ve dönemin sosyal yapılarını gözler önüne serer. Roman, İstanbul'da yaşayan farklı karakterlerin hayatlarını, ilişkilerini ve çatışmalarını anlatırken, toplumun alt sınıflarının yaşadığı zorlukları da yansıtır.",
+      "dream psychology.jpg":
+          "Freud, rüyaların bilinçaltındaki arzuların ifadesi olduğunu ve rüyaların sembolik bir dil kullandığını savunur. Ona göre, rüyaların anlamını çözmek, bilinçaltındaki istekleri ve endişeleri açığa çıkarmanın bir yoludur.",
+      "bozkurtlar diriliyor.jpg":
+          "  Göktürk Devleti'nin kurucu lideri Bilge Kağan ve onun döneminde yaşanan olayları anlatırken, Türk milletinin milli kimliğini ve ruhunu vurgular.",
+      "bozkurtlarin olumu.jpg":
+          " Türk tarihindeki kritik bir dönem olan Malazgirt Meydan Muharebesi'ni ve sonrasını konu alır. Bu savaşta Türklerin Bizans İmparatorluğu'na karşı elde ettiği zafer anlatılırken, roman aynı zamanda Türk milletinin milli kimliğini ve ruhunu vurgular.",
+      "bugunun saraylisi.jpg":
+          "Bugünün Saraylısı, İstanbul'un farklı semtlerinde yaşayan çeşitli sosyal sınıflardan karakterlerin hayatlarını ve ilişkilerini konu alır. Roman, karakterlerin günlük yaşam mücadeleleri, aşkları, umutları ve hayal kırıklıklarını incelerken, aynı zamanda dönemin siyasi ve toplumsal atmosferini de yansıtır.",
+      "butun oykuler.jpg":
+          "aşk, özgürlük, adalet, yalnızlık ve umutsuzluk... Sabahattin Ali'nin anlatımı sade ve etkileyici oykuleri, okuyucuyu derinden etkileyen karakterleri ve olayları ıle dolu oyku serısı.",
+      "capitale de la douleur.jpg":
+          " Fransız şair Paul Éluard'un 1926 yılında yayımlanan şiir koleksiyonudur. Éluard, bu koleksiyonda I. Dünya Savaşı sonrası dönemde yaşadığı kişisel acıları, travmaları ve duygusal deneyimleri dile getirir.",
+      "classic for chilldren.jpg":
+          " Roman, modern bir Amerikan ailesinin yaşamını ve ilişkilerini konu alırken, aynı zamanda klasik eserlere ve antik Yunan-Roma kültürüne bir gönderme yapar.",
+      "cleopatra.jpg":
+          "Kleopatra, tarihi aksiyonu doğaüstü olaylarla karıştırır ve tarihi bir fantastik roman olarak tanımlanabilir.",
+      "Confidence.jpg":
+          " Francie, Avrupa'da yaşayan ve toplumsal konumları farklı olan iki adam arasında kalmıştır: zengin ve çekici bir genç adam olan Bernard Longueville ile İngiliz bir soylu olan Lord Lovelace. Francie'nin bu iki adam arasındaki ilişkisi ve duygusal karmaşaları romanın merkezinde yer alır.",
+      "david copperfield.jpg":
+          " Annesi Clara ve üvey babası Mr. Murdstone'un yanında zorbalık gören David, sonradan annesi ve annesinin hizmetçisi Peggotty ile yaşamaya başlar. Hayatında birçok dönemeçle karşılaşan David, farklı mesleklerde çalışır, çeşitli ilişkiler kurar ve hayatın zorluklarıyla başa çıkmaya çalışır.",
+      "Death in Venice.jpg":
+          " Gustav von Aschenbach, Venedik'e yaz tatili için gelen başarılı bir Alman yazarıdır. Ancak, burada karşılaştığı genç ve güzel bir Polonyalı erkek çocuğuna duyduğu saplantılı ilgi, iç dünyasında derin bir çöküşe neden olur. Tutkulu arzuları ve içsel çatışmalarıyla boğuşurken, aynı zamanda Venedik'in bozulmuş ve ölümle iç içe geçmiş atmosferiyle de mücadele etmek zorundadır.",
+      "Der Zeuberberg.jpg":
+          "Hans Castorp, ziyaret ettiği akrabasıyla birlikte İsviçre Alpleri'ndeki bir sanatoryuma giderek orada birkaç hafta geçirmeyi planlar. Ancak, kısa süreli ziyaretinin ardından beklenmedik bir şekilde birkaç yıl boyunca sanatoryumda kalır. Bu süre zarfında, çeşitli hastalarla ve doktorlarla ilişkiler kurar ve zamanla kendini bu izole dünyaya daha fazla kaptırır.",
+      "dialogues concerning natural religion.jpg":
+          "Eserde, iki karakter olan Cleanthes ve Philo, doğal teolojiyi savunurken, üçüncü karakter olan Demea ise dini inançları daha mistik ve gizemli bir şekilde ele alır. Bu üç karakter arasındaki tartışma, tanrısal varlığın kanıtlanabilirliği, tanrı kavramının doğası, dünya üzerindeki kötülük ve acıların varlığı gibi temel din felsefesi konularını ele alır.",
+      "divine comedy.jpg":
+          " Dante'nin kendi ruhsal yolculuğunu anlatır ve şairin İlahi Adalet'in (Divine Justice) doğası ve insanın ruhsal kurtuluşu üzerine derin düşüncelerini yansıtır. Dante'nin eseri, üç bölümden oluşur: Cehennem (Inferno), Araf (Purgatorio) ve Cennet (Paradiso). Her bölümde Dante, önde gelen tarihî ve mitolojik figürlerle karşılaşır ve bu karşılaşmalar aracılığıyla insanın cennet ve cehennem arasındaki yolculuğunu anlatır.",
+      "dombey and son.jpg":
+          "Paul Dombey, zengin ve acımasız bir iş adamı olan Mr. Dombey'in oğludur. Mr. Dombey, oğlunu iş dünyasındaki varlığını güçlendirmek için bir araç olarak görür. Ancak, Paul'un sağlığı zayıf olduğu için beklentilerine uygun bir şekilde gelişmemesi, Dombey ailesinin yaşamında bir dizi olayı tetikler.",
+      "don quixote.jpg":
+          "Alonso Quixano adlı bir İspanyol soylusunun, kafasını romantik şövalyelik romanlarına kaptırması ve kendisini Don Quixote olarak adlandırarak şövalyelik maceralarına atılmasını konu alır. Don Quixote, yandaşı Sancho Panza ile birlikte hayali düşmanlarla savaşır, iyiliği ve adaleti savunurken gerçek dünyanın komik ve çarpık yanlarıyla karşılaşır.",
+      "Dorothy amd the Wizard Oz.jpg":
+          "Dorothy Gale'in Kansas'tan Oz'a geri dönmesini ve orada yeni maceralar yaşamasını anlatır. Bu sefer Dorothy, Kansas'taki evcil hayvanı olan Toto ve ozamanlardaki arkadaşı Zeb ile birlikte bir deprem sırasında yuttukları yer altı mağarasında mahsur kalır. Daha sonra buradan kaçarken çeşitli fantastik yaratıklar ve olaylarla karşılaşırlar.",
+      "Edinburgh.jpg":
+          "  İskoç yazar Robert Louis Stevenson'ın 1878 yılında yayımladığı bir eserdir. Bu eser, Stevenson'ın Edinburgh şehrine dair gözlemlerini ve izlenimlerini içeren bir seyahat kitabıdır.",
+      "great expectations.jpg":
+          "Pip, fakir bir köylü çocuğudur. Bir gün, gizemli bir şekilde zengin bir kişi olan Bayan Havisham'ın malikanesine gizemli bir şekilde davet edilir. Orada, Bayan Havisham'ın güzel ancak soğuk kalpli evlatlık kızı Estella ile tanışır. Pip'in hayatı, bu olaydan sonra beklenmedik bir şekilde değişir ve o artık büyük beklentileri olan biri haline gelir.",
+      "simdi sevisme vakti.jpg":
+          "İstanbul'un sokaklarında dolaşan insanların hayatlarına, duygularına ve ilişkilerine dokunarak okuyucuyu derinden etkiler. Hüzünlü, melankolik ve bazen ironik tonlarıyla Sait Faik'in kısa öykülerinde insanın iç dünyası ve yaşamın karmaşıklığı ustalıkla işlenir.",
+      "Gullivers travel.jpg":
+          " Gulliver, dört farklı seyahatte bulunur: Lilliput, Brobdingnag, Laputa ve Houyhnhnms ülkelerine gider. Her ülke, farklı bir toplum yapısına, kültüre ve dünya görüşüne sahiptir. Gulliver, bu farklı toplumlarda yaşadığı deneyimler aracılığıyla insan doğasını, toplumsal yapıları ve insanlığın zayıflıklarını keşfeder.",
+      "eight cousins.jpg":
+          " Rose, babasının ölümünden sonra teyzesi ve amcasının yanına taşınır ve burada sekiz kuzeniyle birlikte büyür. Roman, Rose'un ailesi ve kuzenleri arasındaki ilişkileri, maceraları ve büyüme sürecini konu alır.",
+      "fair margaret.jpg":
+          "Margaret, soylu bir ailenin varisi olan Hugh Hainault'a aşık olur. Ancak, Hugh'un annesi, Margaret'ın ailesini aşağı görür ve onları reddeder. Bu durum, Margaret ve Hugh arasındaki ilişkiyi zorlar ve bir dizi trajik olaya neden olur.",
+      "faust 1.jpg":
+          " bir bilginin, Mephistopheles adlı şeytanla yaptığı anlaşmayı ve sonrasında yaşadığı olayları anlatır. Faust, daha fazla bilgi ve anlam arayışında olan bir bilgin olarak tanıtılır. Mephistopheles, Faust'a sonsuz bilgi ve zevk vaat eder ancak karşılığında ruhunu ister. Faust, bu teklifi kabul eder ve insan deneyimi üzerine bir dizi olay yaşar.",
+      "faust 2.jpg":
+          " bir bilginin, Mephistopheles adlı şeytanla yaptığı anlaşmayı ve sonrasında yaşadığı olayları anlatır. Faust, daha fazla bilgi ve anlam arayışında olan bir bilgin olarak tanıtılır. Mephistopheles, Faust'a sonsuz bilgi ve zevk vaat eder ancak karşılığında ruhunu ister. Faust, bu teklifi kabul eder ve insan deneyimi üzerine bir dizi olay yaşar.",
+      "henry v.jpg":
+          " Henry, İngiltere tahtına geçtikten sonra Fransa'ya savaş açar ve Agincourt Muharebesi'nde büyük bir zafer kazanır. Ancak, Henry'nin liderliği ve kararları, hem askerleri hem de düşmanları üzerinde derin etkiler bırakır.",
+      "huzur.jpg":
+          " Mümtaz, İstanbul'un karmaşık atmosferinde kendini ve ait olduğu değerleri sorgularken, aynı zamanda geçmişiyle ve aşkla olan ilişkisiyle yüzleşmek zorunda kalır.",
+      "First and Last Things.jpg":
+          " Wells, bilimsel gerçekler ve insanın içsel deneyimleri arasındaki dengeyi arar ve modern dünyanın karmaşıklığına yönelik eleştirilerde bulunur.",
+      "Fundamental Principles of the Metaphysic of Morals.jpg":
+          "Kant, ahlaki yükümlülüklerin temelini kategorik imperatif olarak adlandırdığı evrensel ahlaki prensiplerde bulur. Ona göre, ahlaki eylemlerimiz, ahlaki yasaları evrensel olarak kabul etme yeteneğimizden kaynaklanır ve ahlaki değerlerin özü, ahlaki zorunluluklarımızın özgür irademiz tarafından benimsenmesidir.",
+      "general-introduction-to-psychoanalysis.jpg":
+          "Freud, bilinçdışı, rüyaların yorumlanması, savunma mekanizmaları ve psikanalizin temel kavramları gibi konuları ele alır.",
+      "God the Invisible King.jpg":
+          " Wells dinin ve tanrı kavramının evrimini ve rolünü tartışır. Ayrıca, bilimin ve dinin birbirini nasıl tamamlayabileceği ve modern dünyanın din anlayışına nasıl uyum sağlayabileceği üzerine fikirlerini sunar.",
+      "hamlet.jpg":
+          " Hamlet, babasının ölümünün ardından sarayda tuhaf bir ruh hali içindedir. Babasının hayaletiyle karşılaşır ve ondan ölümünün intikamını almasını ister. Hamlet, intikam alma yükümlülüğünü yerine getirmeye çalışırken ahlaki, felsefi ve duygusal çatışmalar yaşar.",
+      "hard times.jpg":
+          "Coketown adında bir endüstri şehrinde yaşayan çeşitli karakterlerin hayatları ve etkileşimleri üzerinden, dönemin toplumsal sınıf ayrımlarını, işçi sınıfının zorluklarını, eğitim sisteminin eleştirilerini ve insanların empati ve insani duyguları üzerindeki etkilerini görmekteyiz.",
+      "homage to catalonia.jpg":
+          "Orwell, Homage to Catalonia'da, İspanya İç Savaşı sırasında yaşanan karmaşık politik süreçleri, çatışmaları ve ideolojik bölünmeleri inceler. Aynı zamanda, Cumhuriyetçi tarafındaki iç mücadeleleri ve Sovyetler Birliği destekli komünist grupların etkisini de eleştirir.",
+      "hospital sketches.jpg":
+          "Alcott, Amerikan İç Savaşı sırasında Union Army'de bir hemşire olarak görev yapmıştır. Hospital Sketches, bu deneyimlerine dayanarak savaş alanındaki tıbbi koşulları, yaralı askerlerin yaşadıklarını ve savaşın insanlar üzerindeki etkilerini inceler.",
+      "Human, All Too Human.jpg":
+          " insan doğasını, toplumsal yapıları, ahlaki değerleri ve kültürel normları ele alırken, aynı zamanda insanın içsel çatışmalarını ve çelişkilerini de inceler. Nietzsche,  insanın acizliklerini ve kusurlarını açıkça görmesi gerektiğini ve bunları kabul etmenin özgürleştirici bir etki yaratabileceğini savunur.",
+      "hunger.jpg":
+          " yoksulluk içinde yaşayan Baş karakter, hayatta kalmak için yazma ve çalışma arasında gidip gelen bir çıkmazda kendisini bulur. Yoksulluk, açlık ve toplum tarafından dışlanma gibi temalar üzerine odaklanırken, aynı zamanda roman, baş karakterin içsel dünyasındaki çatışmaları ve çıkmazları da inceler.",
+      "In the Days of the Comet.jpg":
+          "Leadford, bir gün gökyüzünde görülen bir kuyruklu yıldızın ardından dünya üzerindeki toplumsal dönüşümleri ve insanların değişen davranışlarını gözlemlemeye başlar. Yıldızın gazı, insanların içlerindeki kötülüğü yok eder ve dünyada bir uyum ve barış ortamı sağlar. ",
+      "jos boys.jpg":
+          "March ailesinin kızlarından biri olan Jo March'ın yetişkinliğindeki yaşamını ve çevresindeki insanların hayatlarını ele alır. Jo, Plumfield adlı bir okul kurar ve bu okulda çocuklarla ilgilenirken, aynı zamanda onları yetiştirmeye çalışır. ",
+      "kinglear.jpg":
+          "Lear'ın üç kızı Goneril, Regan ve Cordelia arasında krallığını paylaştırma isteğiyle başlar. Ancak, kızlarından gelen yanıtların ardından Lear, en sadık kızı Cordelia'yı dışlar ve krallığını diğer iki kızıyla paylaşır. Bu karar, aile içi çatışmaları tetikler ve Lear'ın hayatını altüst eder.",
+      "markopasa ve yazilari.jpg":
+          "Marko Paşa başlıklı öykü, Sabahattin Ali'nin Türk toplumunu eleştiren ve insan psikolojisi üzerine derinlemesine düşündüren hikayelerinden biridir.",
+      "ibni batuta.jpg":
+          " İbn Battuta'nın 30 yılı aşkın süren gezi macerasını, doğu ve batı arasında uzanan geniş coğrafyada yaşadığı deneyimleri, ticaret yollarını, yerel yönetimleri ve toplumsal yapıları aktarır.",
+      "icmizde ki seytan.jpg":
+          " Ahmet Celal, toplumun ve kendi iç dünyasının baskıları altında ezilmiş, tükenmiş bir adamdır. Roman, onun geçmişine ve yaşamının farklı dönemlerine geri dönerek, okuyucuya karakterin içsel çatışmalarını ve yabancılaşmasını anlatır.",
+      "iffet.jpg":
+          " Münevver Hanım, ahlaki değerlerine bağlı, iffetli bir kadındır. Ancak, hayatının bir döneminde kendisinden yaşça büyük olan Halit Bey ile karşılaşır ve aralarında imkansız bir aşk başlar. Bu aşk, toplumun ve ahlaki değerlerin onlara karşı tavır almasıyla büyük bir sınavdan geçer.",
+      "iliad.jpg":
+          " Paris'in, Yunan kralı Agamemnon'un kardeşi Menelaos'un eşi olan Helen'i kaçırmasıyla başlayan olaylar, uzun süren bir savaşa neden olur. İlyada, savaşın sona ermesine kadar olan dönemi, Yunan savaşçılarının önderi Achilleus'un öfkesi, Hektor'un kahramanlığı ve diğer birçok karakterin trajik kaderleri üzerinden anlatır.",
+      "in the penal colony.jpg":
+          "bir subay, yaptığı suçluları işkence cihazına bağlayarak onlara ceza verir. Ancak, bu cihazın işleyişi ve cezalandırma yöntemi oldukça sıradışıdır ve eleştirilmeye açıktır.",
+      "israel potter.jpg":
+          " İsrail Potter, Amerikan Devrimi'nin çeşitli aşamalarında savaşırken, savaş sırasında esir düşer ve İngiliz gemileri tarafından İngiltere'ye götürülür. Roman, İsrail Potter'ın İngiltere'de yaşadığı deneyimleri ve sürgündeki yıllarını detaylı bir şekilde aktarır.",
+      "istanbulun ic yuzu.jpg":
+          "Halide Edib, İstanbul'un geleneksel yapısını, toplumsal normlarını ve değişen dönüşen dünyasını ele alırken, aynı zamanda Osmanlı İmparatorluğu'nun çalkantılı son dönemlerindeki siyasi ve toplumsal atmosferi de yansıtır.",
+      "jack and jill.jpg":
+          "Jack ve Jill, küçük bir kasabada yaşayan iki yakın arkadaştır. Roman, onların birlikte yaşadıkları çeşitli olaylar, oyunlar ve öğrenme deneyimleri üzerinden ilerlerken, karakterlerin büyüme ve olgunlaşma süreçlerini de ele alır.",
+      "julius-caesar.jpg":
+          " Caesar'ın eski müttefiki Brutus'un da aralarında bulunduğu bir grup Roma senatörü tarafından gerçekleştirilen suikast, Roma'nın siyasi atmosferinde büyük bir sarsıntıya neden olur. Bu suikastın ardından, Roma halkı ve generaller arasında çatışmalar başlar ve Roma'yı sarsar.",
+      "kalp agrisi.jpg":
+          "Feride, evli bir adam olan Cemil'e aşık olur ve bu yasak aşkın yarattığı iç çatışmalarla başa çıkmak zorunda kalır. Roman, Feride'nin duygusal gelgitlerini, iç hesaplaşmalarını ve toplumsal normlarla çatışmasını anlatır.",
+      "kasagi.jpg":
+          "Osmanlı dönemi Türk toplumunun çeşitli yönlerini ve insan ilişkilerini ele alır. Kaşağı, köy yaşamı, gelenekler ve toplumsal yapının çeşitli yönlerini işleyen etkileyici bir hikayedir.",
+      "Kidnapped.jpg":
+          "David'in ailesinin ölümünden sonra, akrabası tarafından zorla gemiye bindirilerek kaçırılmasını ve ardından yaşadığı serüvenleri anlatır. David, korsanlarla karşılaşır, kaçaklarla dost olur ve birçok zorluğun üstesinden gelmek zorunda kalır. ",
+      "Life on the Mississippi.jpg":
+          "Twain, bu eserde kendi deneyimlerini ve gözlemlerini aktararak, Mississippi Nehri'nin önemini, çevresindeki toplumu ve yaşam tarzını detaylı bir şekilde inceler. Ayrıca, eserde Mississippi Nehri'nin ekonomik, sosyal ve kültürel önemine de vurgu yapılır.",
+      "macbeth.jpg":
+          "Macbeth'in, üç cadının kehanetleri sonucu kendi hırsı ve karısı Lady Macbeth'in kışkırtmalarıyla tahtı ele geçirmek için yaptığı hırslı planları anlatır. Ancak, bu hırs yolunda işledikleri suçların sonucunda, çift içsel çatışmalar yaşar ve çöküşe doğru ilerlerler.",
+      "MAHUR BESTE.jpg":
+          "Suat Bey, Türk müziği bestecisi olan bir karakterdir ve roman boyunca müzikle olan ilişkisi ve içsel dünyası önemli bir yer tutar.",
+      "mansfield park.jpg":
+          "Fanny, zengin bir aile olan Bertram'ların malikanesi Manşfield Park'ta büyümektedir. Roman, Fanny'nin ailesi tarafından bu malikane için evlatlık alınmasının ardından yaşadığı deneyimleri ve ailenin içindeki sosyal dinamikleri konu alır.",
+      "metres.jpg":
+          "Roman, İstanbul'un fakir semtlerinden birinde geçer ve baş karakterlerinden biri olan Nuri Bey'in, yasak bir ilişki yaşadığı metresiyle olan ilişkisini konu alır. Roman, dönemin toplumsal normları ve ahlaki değerleriyle çatışan bu ilişkiyi merkeze alarak, insanın içsel çatışmalarını ve toplumsal baskıları işler.",
+      "Mr. Britling Sees It Through.jpg":
+          " Britling, savaşın patlak vermesinin ardından, savaşın getirdiği trajedilerle ve toplumsal sorunlarla yüzleşir. Roman, Britling'in savaşın başlangıcından sonuna kadar yaşadığı deneyimleri, içsel çatışmalarını ve düşüncelerini ele alırken, aynı zamanda savaşın etkilerini ailesi ve çevresindeki diğer karakterler üzerinde de inceler.",
+      "New Arabian.jpg":
+          "New Arabian Nights, farklı mekânlarda ve zamanlarda geçen, sıradışı ve heyecan verici hikayeleri içerir. Bu hikayelerde, macera, romantizm, gizem ve mizah gibi farklı temalar işlenir.",
+      "Notes of a Son and Brother.jpg":
+          "James'in ailesi ve çocukluk dönemiyle ilgili anılarını ve düşüncelerini içerir. Kitap, yazarın ailesine, çocukluk yaşantısına ve aile bağlarına yönelik içsel bir keşif yolculuğunu anlatır.",
+      "martin chuzzlewit.jpg":
+          " Martin, zengin ve çekici bir varisken, kibirli ve bencil bir yapıya sahiptir. Roman, Martin'in hayatındaki dönüm noktalarını, ailesiyle olan ilişkilerini, aşklarını ve çekişmelerini anlatırken, aynı zamanda dönemin İngiliz toplumunun çeşitli kesitlerini de işler.",
+      "medari maiset motoru.jpg":
+          "Roman, İstanbul'un farklı semtlerinden gelen bir grup karakterin etrafında dönüyor. Bu karakterler, farklı sosyal sınıflardan ve geçim kaynaklarından gelmekte olup, İstanbul'un karmaşık dokusunu temsil ederler.",
+      "memleket hikayeleri.jpg":
+          "Anadolu'nun farklı bölgelerinden ve insanlarından kesitler sunar. Hikayeler, genellikle sıradan insanların günlük yaşamlarından ve yaşadıkları olaylardan yola çıkarak, insan doğası, ahlaki sorunlar, toplumsal çatışmalar ve milli değerler gibi temaları ele alır.",
+      "merchant-of-venice.jpg":
+          "Oyun, Venedik'te geçer ve ana karakterlerden biri olan tüccar Antonio'nun, Yahudi tefeci Shylock'a olan borcunu ödeyememesi üzerine gelişen olayları anlatır. Oyun, aynı zamanda Antonio'nun yakın arkadaşı Bassanio'nun, zengin bir kadın olan Portia ile olan aşkını ve onun mirasını kazanmak için verdiği mücadeleyi de konu alır.",
+      "micromeas.jpg":
+          "Micro-Megas, iki uzaylı varlığın, Micromégas ve sekiz kilometre boyundaki arkadaşı, dünyayı ziyaret etmelerini konu alır. Bu uzaylılar, farklı gezegenlerden gelirler ve insanlarla karşılaştıklarında onların küçük zekâlarını ve ön yargılarını gözlemlemeye başlarlar.",
+      "midsummernight.jpg":
+          " aşk, hayal gücü ve gerçeklik arasındaki ince çizgiyi keşfederken, aynı zamanda farklı toplumsal sınıfların ve karakterlerin etkileşimini de inceler. Oyun, karmaşık bir kurgusu, zengin karakterleri ve şiirsel dilinin yanı sıra eğlenceli ve büyülü atmosferiyle de dikkat çeker.",
+      "moby dick.jpg":
+          "Roman, bir balina avcısı gemisi olan Pequod'un kaptanı Ahab'ın, efsanevi bir beyaz balina olan Moby Dick'i avlama saplantısını konu alır. Ahab, daha önce Moby Dick tarafından bacağı koparılan bir denizcidir ve intikam almak için gemisiyle bir av gezisine çıkar.",
+      "moon of israel.jpg":
+          "Roman, Mısır'ın eski tarihini ve Firavun dönemini konu alırken, aynı zamanda Yahudi halkının esaret altındaki yaşamını ve İsrailoğulları'nın Mısır'dan çıkışını da ele alır. ",
+      "mrs  dalloway in bond street.jpg":
+          "Clarissa'nın zihnindeki iç monologları, çevresindeki insanları ve şehrin atmosferini detaylı bir şekilde anlatır. Clarissa, alışveriş yaparken ve çevresindeki insanları izlerken, geçmiş anılarına ve duygularına dalar. ",
+      "murebbiye.jpg":
+          "Mürebbiye, ailenin küçük kızı Ayşe'nin gözünden olayları takip eder. Ayşe'nin anne ve babası, Batılı eğitim metotlarını benimsemiş ve çocuklarını modern bir şekilde yetiştirmek isteyen ilerici bir ailedir. Ancak, ailenin mürebbiyesi (dadısı) Fatma Hanım, geleneksel değerlere ve İslamiyet'e bağlılığını koruyarak modernleşmeye direnir.",
+      "nada the lily.jpg":
+          "Roman, antik Mısır'da geçer ve Firavun Meneptah dönemindeki olayları anlatır. Hikaye, Zulu halkından gelen bir kız olan Nada'nın yaşamını konu alır. Nada, babasının intikamını almak ve kendi halkının özgürlüğünü sağlamak için güçlü ve kararlı bir şekilde hareket eder.",
+      "natural selection.jpg":
+          "Doğal Seçilim, Charles Darwin'in evrim teorisinde temel bir kavramdır. Bu süreçte, çevreye uyumlu özelliklere sahip organizmaların hayatta kalma ve üreme şansı daha yüksektir. Bu sayede, popülasyonlarda zamanla genetik değişiklikler meydana gelir ve türler evrim geçirir.",
+      "new life.jpg":
+          " Dante'nin aşk ve ölüm temasını işlediği şiirlerden oluşur. Dante, kitap boyunca Beatrice adlı kadına duyduğu aşkı ve onun etkisi altında yaşadığı duygusal deneyimleri anlatır. Beatrice, Dante'nin şiirlerinde idealize edilmiş bir figür olarak yer alır ve onun ruhsal kurtuluşunu temsil eder.",
+      "nicholas nickleby.jpg":
+          "Nicholas, annesi ve kardeşi Kate ile zorlu bir hayat sürmektedir. Babası öldükten sonra, aile ekonomik sıkıntılarla mücadele etmek zorunda kalır. Nicholas, annesi ve kardeşi için sorumluluk alır ve Londra'ya giderek iş aramaya başlar. Burada, eğitim kurumları ve sahtekarlıkla dolu dünyada çeşitli maceralar yaşar.",
+      "Ninety Three.jpg":
+          "Roman, üç farklı ana hikaye hattını takip eder. Birincisi, bir gemi kaptanı olan La Vendeé'li Lantenac'ın isyanı ve kaçışıdır. İkincisi, ayaklanmanın bastırılması için gönderilen Cumhuriyetçi general Cimourdain'in iç hesaplaşmaları ve zor kararlarıdır. Üçüncüsü ise bir ailenin trajik hikayesidir; bir baba ve oğlunun ayaklanma ve iç savaşın ortasında karşı karşıya kaldıkları zorlukları anlatır.",
+      "notes from the underground.jpg":
+          "Roman, adını anlatıcı olarak adlandırdığı isyankar karakterin yeraltı dünyasında yaşadığı deneyimlerden alır. Anlatıcı, toplumun normlarına ve beklentilerine karşı çıkan bir karakterdir. Kendini toplumun dışında hisseden ve toplumun değerlerini reddeden bu karakter, kendi iç dünyasında büyük bir çatışma yaşar.",
+      "our with spain for cuba freedom.jpg":
+          "Trumbull White savaşa yol açan olayların ayrıntılı bir anlatımını sunar ve savaş sırasında yaşanan çatışmaları, siyasi ve sosyal dinamikleri inceler. Amerika'nın savaşa girişinin arkasındaki motivasyonları araştırır ve Küba'nın özgürlük arayışı için geniş çapta nelerin yapıldığını analiz eder.",
+      "Protagoras.jpg":
+          "Protogoras, sofistlerin temsilcilerinden biridir ve retoriğin ve argümantasyonun ustası olarak bilinir. Sokrates, Protogoras ile etik ve bilgi üzerine derinlemesine bir tartışma yapar. Diyalog boyunca, Sokrates, erdem, adalet, iyilik ve bilgelik gibi kavramları sorgular ve sofistlerin argümanlarını eleştirir.",
+      "romola.jpg":
+          "Hikaye, genç ve idealist bir kadın olan Romola'nın hayatını merkeze alır. Romola, zengin bir tüccar olan babası Baldassarre'nin trajik bir şekilde kaybolmasının ardından, idealist prens Savonarola'nın etkisi altında kalarak toplumsal adalet için mücadele etmeye başlar.",
+      "sehrın dısındakıler.jpg":
+          " Hayri, İstanbul'da yaşadığı kültürel ve entelektüel çevreden uzaklaşmıştır ve şehrin dışındaki sakin ve huzurlu bir hayata çekilmiştir. Ancak kasabada da çeşitli insanlar ve olaylarla karşılaşır ve bu yeni çevresinde kendini bulmaya çalışır.",
+      "Notre Dame de Paris.jpg":
+          "Romanın ana karakterleri arasında Quasimodo adlı kambur bir adam, güzel ve saf Esmeralda, Prenses Phoebus ve Piskopos Claude Frollo bulunmaktadır. Hikaye, Quasimodo'nun Esmeralda'ya olan aşkını ve onun peşinde olan Frollo'nun saplantılı takibini anlatır.",
+      "now it can be told.jpg":
+          "İngiliz yazar Philip Gibbs'in 1920'de yayımlanan birinci Dünya Savaşı hakkındaki hatıralarını içeren bir kitaptır. Bu eser, Gibbs'in savaş sırasında gazeteci olarak yaşadığı deneyimlere dayanmaktadır.",
+      "oliver twist.jpg":
+          "Hikaye, Oliver'ın doğumundan yetimhaneye yerleştirilmesine, ardından kötü niyetli yetimhane görevlileri ve sokaklarda yaşayan suçlu çetelerle olan karşılaşmalarını anlatır. Oliver, sokaklarda yaşadığı zorluklara rağmen iyi kalpli ve masum bir karakterdir. ",
+      "our mutual friend.jpg":
+          "Roman, John Harmon adlı zengin bir mirasçının ölümü ve ardından mirasına sahip olmak isteyen insanlar arasındaki entrikalarla başlar. Bu mirası, Harmon'un vasiyeti gereği, ona iyilik yapan bir aileye bırakması beklenmektedir. Ancak Harmon, kendisini öldürmeye çalışanların elinden kaçarak başka bir kimlikle yaşamaya başlamıştır.",
+      "oyle bir hikaye.jpg":
+          "Sait Faik'in öyküleri genellikle İstanbul'un sokaklarında geçer ve sıradan insanların hayatlarını, duygularını ve çatışmalarını ele alır. Doğanın ve denizin insanlar üzerindeki etkilerini sıkça işler ve genellikle melankolik bir hava taşır. ",
+      "poems of william blake.jpg":
+          " İngiliz şair, ressam ve baskı ustası William Blake'in şiirlerini içeren bir koleksiyondur. William Blake, romantik dönemin önde gelen şairlerinden biridir ve eserleri derin düşünceler, mistisizm ve deneysel dil kullanımıyla tanınır.",
+      "pride and prejudice.jpg":
+          "Bennet ailesinin beş kızının evlilik arayışlarını merkeze alır. Hikaye, başlıca karakterlerden Elizabeth Bennet'in romantik ilişkileri, aşk arayışları ve toplumun beklentileriyle başa çıkma sürecini anlatır. Elizabeth, gururlu ve zengin Mr. Darcy ile tanışır ve aralarında inişli çıkışlı bir ilişki gelişir.",
+      "Prince Otto, a Romance.jpg":
+          "Roman, Grand Duchy of Gerolstein adlı hayali bir Alman prensliğinde geçer. Prens Otto, tahtının güvenliğini sağlamak ve ülkesini istikrara kavuşturmak için zorlu bir mücadele vermektedir. Ancak Otto'nun tahtı tehlikeye girdiğinde, kendisini ve ülkesini korumak için çeşitli politik entrikalara ve tehlikelere karşı savaşmak zorunda kalır.",
+      "resurrection.jpg":
+          " aristokrat bir genç olan Dmitri Nekhlyudov'un, yanlışlıkla bir kadının haksız yere hapsedilmesine neden olmasının ardından yaşadığı vicdan azabını ve bu kadına yönelik bir tür kurtarma ve kefaret çabasını anlatır. Nekhlyudov, bu kadın olan Maslova'nın dramatik dönüşümüne tanık olurken, aynı zamanda onunla bağlarını güçlendirir ve hayatındaki tüm yaşamı değiştiren bir içsel dönüşüm geçirir.",
+      "Rhyme and Reason.jpg":
+          "Kitap, çeşitli temalarda ve tarzlarda yazılmış şiirleri içerir. Carroll, şiirlerinde oyunbaz bir üslup kullanırken, aynı zamanda dil oyunları, mantık oyunları ve hicivli göndermelerle doludur.",
+      "Roderick Hudson.jpg":
+          "Roman, Amerikalı heykeltıraş Roderick Hudson'un hayatını ve kariyerini merkezine alır. Hudson, Amerika'dan İtalya'ya gider ve orada yetenekli bir sanatçı olarak tanınır. Ancak, Hudson'un kariyeri ve kişisel ilişkileri, sanatsal hırslarının ve tutkularının yanı sıra, kişisel zorluklarla da doludur.",
+      "romeo-and-juliet.jpg":
+          "Romeo ve Juliet, düşman iki aile olan Montague'lar ve Capulet'lerin çocuklarıdır. Ancak, bu iki genç aşık, ailelerinin düşmanlığına rağmen birbirlerine karşı derin bir tutku hissederler. Tutkulu aşklarına rağmen, trajik bir dizi olay sonucunda kendilerini bir intihar planının içinde bulurlar.",
+      "rose in bloom.jpg":
+          "Roman, genç ve yetenekli bir kadın olan Rose Campbell'in yaşamını konu alır. Rose, Eight Cousins romanında on dört yaşındayken tanıdığımız karakterdir. Şimdi ise yirmi bir yaşındadır ve çevresindeki insanlarla ilişkileri, aşk hayatı ve kişisel gelişimi üzerine odaklanır.",
+      "saatlerı ayarlama enstıtusu.jpg":
+          "Roman, İstanbul'da geçen bir günü anlatır ve birkaç farklı karakterin yaşamlarını ve ilişkilerini izler. Hikaye, Sabahattin Ali'nin ünlü öyküsü 'Kürk Mantolu Madonna' ile bağlantılıdır ve romanın ana karakterlerinden biri olan Hayri İrdal, Sabahattin Ali'nin eserlerine birkaç kez gönderme yapar.",
+      "salommbo.jpg":
+          "Hikaye, Kartaca'nın varlığını tehdit eden iç ve dış tehlikelerle mücadele eden bir dönemi anlatır. Kartaca'da bir isyan patlak verir ve Kartaca'nın generali Hamilcar Barca'nın kızı olan Salammbô, isyancı lider Matho'ya karşı duygusal bir bağ geliştirir.",
+      "saray ve otesi.jpg":
+          ". Hikaye, Osmanlı sarayının içinden ve çevresinden farklı kesimlerden kadın karakterlerin gözünden anlatılır. Sarayda yaşayan kadınlar, çeşitli sınıf ve statülerden gelirler ve her biri kendi kişisel hikayesini ve deneyimini taşır.",
+      "she and allan.jpg":
+          "Roman, 'She' adlı önceki romanda tanıtılan Ayesha karakterine odaklanır. Hikaye, Ayesha'nın geçmişine ve gizemli yaşamına ışık tutar.",
+      "St. Ives.jpg":
+          "Roman, Napolyon Savaşları sırasında Fransız bir casusluk ağına karışan St. Ives'in yaşadığı maceraları konu alır. St. Ives, esaretten kaçmak ve aşkı bulmak için çeşitli tehlikelerle dolu bir yolculuğa çıkar.",
+      "Sylvie and Bruno.jpg":
+          "Roman, Sylvie and Bruno adlı iki fantastik karakterin etrafında dönüyor. Sylvie, bir peri kızı olarak tanımlanırken, Bruno ise insanlarla etkileşimde bulunan hayali bir karakterdir. Hikaye, Sylvie ve Bruno'nun yaşadığı fantastik maceraları ve gerçek dünyadaki olayları iç içe geçiren karmaşık bir yapıya sahiptir.",
+      "the american.jpg":
+          "Romanın merkezinde, Christopher Newman adında bir Amerikalı milyarder yer almaktadır. Newman, Avrupa'da seyahat ederken Fransız aristokrat bir ailenin kızı olan Claire de Cintré ile tanışır ve ona aşık olur. Ancak, Claire'in ailesinin çıkarları ve geleneksel beklentileri, Newman ve Claire'in ilişkisinin önünde engel teşkil eder.",
+      "semaver.jpg":
+          "Sait Faik'in ustalıklı anlatımı ve derin gözlem yeteneği, okuyuculara sıradanlığın içinde gizlenmiş derinlikli duyguları ve insan ilişkilerini keşfetme fırsatı sunar.",
+      "sense and sensibility.jpg":
+          "Dashwood ailesinin iki kızı olan Elinor ve Marianne'in yaşamlarını ele alan roman, iki kızın farklı karakterlerine odaklanarak, duygusal ve rasyonel tepkiler arasındaki dengeyi inceler. Elinor, mantıklı ve sakin bir karakterken, Marianne duygusal ve tutkulu bir doğaya sahiptir. Roman, bu iki kızın aşk hayatları ve ilişkileri etrafında dönüyor.",
+      "sevda sokagi komedyasi.jpg":
+          "Roman, İstanbul'un farklı sosyal sınıflarından ve kültürel arka planlardan gelen karakterlerin yaşadığı Sevda Sokağı'nda geçer. Hikaye, sokaktaki komşuluk ilişkileri, aile içi çatışmalar ve aşk üzerine odaklanır. ",
+      "seyehatname.jpg":
+          "Evliya Çelebi Seyahatnamesi, dünya edebiyatının en eski ve en kapsamlı seyahatnamelerinden biri olarak kabul edilir. Eser, Evliya Çelebi'nin gezdiği yerlerdeki doğal güzellikler, mimari yapılar, insanlar ve kültürel detaylar hakkında ayrıntılı ve renkli bir portre sunar. ",
+      "silas marner.jpg":
+          "Silas Marner, insanın içsel dönüşümü, toplumsal dışlanma, ahlaki değerler ve insan ilişkileri gibi temaları ele alır. Roman, George Eliot'un derinlemesine karakter analizi ve toplumsal eleştirisiyle ünlüdür.",
+      "sinekkli bakkal.jpg":
+          "Roman, 19. yüzyıl sonlarında Osmanlı İmparatorluğu'nun son dönemlerinde, İstanbul'un çeşitli semtlerinden birinde bulunan Sinekli Bakkal adlı bir hanın etrafında döner. Hanın sahibi olan ve çeşitli kiracılarla ilişkilerini gözlemleyen İhsan Bey'in yaşamı ve hikayesi merkeze alınır.",
+      "sipsevdi.jpg":
+          "Romanın ana karakteri Meftun Bey'dir. Meftun Bey okumak için gittiği Fransa'nın Paris kentinde yıllarca kalır, fakat buraya asıl geliş sebebini unutup, eğitim görmekten kaçar.",
+      "songs of innocence.jpg":
+          "Şiir koleksiyonu, masumiyet ve çocukluk teması etrafında döner. Blake, çocukluğun safiyetini ve masumiyetini vurgulayarak, insanın doğası hakkında derin düşüncelere yol açar.",
+      "tatarcik.jpg":
+          "Hikaye, genç ve güzel bir Türk kızı olan Nigâr'ın yaşamını merkeze alır. Nigâr, Batılılaşma ve modernleşme hareketlerinin etkisi altında kalan Osmanlı toplumunda kendi kimliğini bulmaya çalışırken, aynı zamanda geleneksel değerlerle modern yaşam arasında bir denge kurmaya çalışır.",
+      "tempest.jpg":
+          "Prospero, bir adaya sürgün edilmiş ve burada sihirli güçlerini kullanarak adanın yerlilerini kontrol etmektedir. Oyun, Prospero'nun adaya düşmanlarından intikam alma arzusu, kızı Miranda'nın aşk hayatı ve doğaüstü varlıkların etkileşimleri etrafında döner.",
+      "The Adventures of Tom Sawyer.jpg":
+          "Roman, Mississippi Nehri'nin kıyısında küçük bir kasaba olan St. Petersburg'da geçer. Baş karakter olan Tom Sawyer, kasabanın yerlisi olan bir çocuktur. Tom'un maceraları, kasabanın sakin yaşamını renklendirir ve onun ve arkadaşlarının hayal gücüyle dolu dünyasına dair bir portre sunar.",
+      "The Ambassadors.jpg":
+          "The Ambassadors, uluslararası ilişkiler, kültürel çatışmalar, kişisel özgürlükler ve duygusal bağlılıklar gibi konuları ele alır. Roman, Amerika ile Avrupa arasındaki farklılıkları ve çelişkileri incelerken, aynı zamanda bireyin içsel çatışmalarını ve duygusal gelişimini de araştırır.",
+      "The Antichrist.jpg":
+          "The Antichrist, Nietzsche'nin nihilizm, güç iradesi ve aşkın insan gibi kavramları üzerine düşüncelerini içerir. Eserde, ahlaki değerlerin ve dinin insanın özgürlüğünü ve gücünü engellediğine dair derinlemesine bir eleştiri sunulur.",
+      "the beautiful and damned.jpg":
+          "Anthony, miras sayesinde zengin bir yaşam sürmektedir, ancak bu durum onu tembelliğe ve bohem bir hayata iter. Gloria ise güzellik ve zenginlik arayışı içindedir. Ancak, evlilikleri zamanla monotonlaşır ve hayal kırıklıklarıyla dolu bir sürece girer.",
+      "The Black Arrow. A Tale Of Two Roses.jpg":
+          "Kral III. Henry'nin iktidar mücadelesinde York ve Lancaster hanedanları arasındaki rekabeti konu alır. Hikaye, genç bir adam olan Dick Shelton'ın etrafında döner. Dick, ailesini öldüren siyasi bir komployu öğrenir ve ardından intikam almak için siyah bir okçuyu bulmaya karar verir.",
+      "the bostanians.jpg":
+          "Olive, feminist ve reformist görüşlere sahip bir kadındır ve kadın hakları hareketinin öncülerinden biridir. Romanın ana olayı, Olive'in bir kadın aktivist olan Verena Tarrant'ı etkilemeye çalışması ve onu kendi idealleri doğrultusunda şekillendirmeye çalışmasıdır.",
+      "The Cossacks.jpg":
+          "Roman, genç bir Rus soylusu olan Olenin'in hikayesini takip eder. Olenin, toplumunun baskıcı kurallarından ve sınırlamalarından bıkmıştır ve Kafkasya'daki Kazaklar arasında özgürlük ve macera aramaya karar verir.",
+      "The Exemplary Novels of Cervantes.jpg":
+          " İspanyol yazar Miguel de Cervantes'in 1613 yılında yayımlanan bir eseridir. Bu eser, on iki kısa öyküden oluşan bir novella koleksiyonudur ve Cervantes'in İspanyol edebiyatına önemli bir katkısı olarak kabul edilir.",
+      "The Door in the Wall.jpg":
+          "Lionel, çocukken sık sık bir duvarın içindeki gizli bir kapıyı keşfeder ve ardında muhteşem bir bahçe ve yolculuklarla dolu bir dünya bulur. Ancak, her seferinde bu fantastik dünyayı ziyaret etme şansı kısa sürer ve zamanla gerçek dünya onun üzerinde baskın gelmeye başlar.",
+      "the great gatsby.jpg":
+          "Gatsby, zenginlik içinde yaşayan bir adamdır ve yasak aşkı Daisy Buchanan'a yeniden ulaşma umuduyla sadece zenginlik değil, aynı zamanda sosyal statüsünü de kazanmıştır. Ancak, Gatsby'nin hayatı ve aşkı, Amerikan Rüyası'nın boşluğu ve yozlaşmasıyla çarpıcı bir şekilde karşı karşıya gelir.",
+      "the brothers karamazoc.jpg":
+          "Roman, Karamazov ailesinin üç oğlu Dmitri, İvan ve Alyosha'nın etrafında döner. Aile içi çatışmalar, ahlaki karmaşıklıklar, din ve varoluşsal sorgulamalar, aşk ve suç gibi temalar etrafında şekillenen karmaşık bir hikayeyi anlatır.",
+      "The Burning Secret.jpg":
+          "Hikaye, bir anne ve oğul arasındaki karmaşık ilişkiyi merkezine alır. Eser, bir yaz tatili sırasında, yakışıklı ve çekici bir adam olan Baron'un, bir otelde tanıştığı ve gizli bir ilişki kurmaya çalıştığı, genç bir çocuk olan Edgar'un etrafında döner.",
+      "The Chartreuse of Parma.jpg":
+          "Fabrice, Napolyon Savaşları döneminde yaşayan bir karakterdir ve Fransız Devrimi ve Napolyon'un yükselişi sırasında yaşanan siyasi ve toplumsal olaylarla karşı karşıya kalır. Fabrice'nin tutkulu aşkı ve macera dolu hayatı, romanın ana olay örgüsünü oluşturur.",
+      "the confidence.jpg":
+          "bir yolcu gemisinde gecen romanda  çeşitli karakterlerin etkileşimlerini ve tartışmalarını anlatır. karakterler arasinda sürekli kimlik değiştiren bir dolandırıcı olan Güven Adamı da bulunmaktadır. dolandiricinin çeşitli kılıklar da nasıl hareket ettiğini ve karakterleri nasıl etkilediğini gösterirken, bir yandan Amerikan toplumunun çeşitli yönlerine eleştirel bir bakış sunar.",
+      "the crime and punishment.jpg":
+          "Raskolnikov, yoksulluk içinde yaşayan bir hukuk öğrencisidir ve toplumun üst sınıfıyla ilgili karmaşık düşüncelere sahiptir. Bu düşünceler onu, zengin bir tefeci kadını öldürme planı yapmaya iter.",
+      "The Crime of the Congo.jpg":
+          " İrlandalı gazeteci ve yazar Sir Arthur Conan Doyle'un 1909'da yayımlanan bir kitabıdır. Bu eser, o dönemde Kongo'da Belçika Kralı II. Leopold'un idaresi altında yaşanan kölelik ve sömürgecilik suçlarına dikkat çekmek için kaleme alınmıştır.",
+      "The Critique of Pure Reason.jpg":
+          "Kitap, insan bilgisinin sınırlarını ve bilgi edinme sürecini araştıran bir eleştirel inceleme sunar. Kant, deneyimin sınırlarını ve akıl yoluyla ulaşılabilecek bilginin doğasını tartışırken, rasyonel düşüncenin ve aklın olanaklarını araştırır.",
+      "the desert village.jpg":
+          "Şiir, bir İrlanda köyünün terk edilmiş halini ve kırsal yaşamın yıkımını anlatır. Goldsmith, modernleşmenin etkileri ve kırsal yaşamın çöküşü üzerine derin bir eleştiri sunar.",
+      "The First Men In The Moon.jpg":
+          "Roman, iki ana karakter olan Bedford ve Cavor'un birlikte Ay'a yapacakları fantastik bir yolculuğu konu alır. Cavor, dahi bir bilim insanıdır ve Ay'da keşif yapmak için bir uzay gemisi icat etmiştir. Bedford, Cavor'un projesine katılır ve ikili birlikte Ay'a doğru maceralı bir yolculuğa çıkarlar.",
+      "The Food of the Gods.jpg":
+          "Roman, iki ana karakter olan Mr. Bensington ve Mr. Redwood'un etrafında döner. İkili, bir büyüme hormonu keşfeder ve bu hormonun hayvanlar üzerindeki etkilerini test etmeye karar verir. Ancak, bu deneyler beklenmedik bir şekilde kontrolden çıkar ve keşfedilen besin maddesi, normalden çok daha hızlı büyüyen ve devasa boyutlara ulaşan hayvanlar yaratır.",
+      "The Fur Country.jpg":
+          "bir grup cesur maceracının, Hudson Körfezi'ndeki soğuk ve zorlu koşullarda bir kürk ticareti istasyonu kurma girişimini konu alır. kutup keşifleri, yerli halkla karşılaşmalar ve vahşi doğanın zorluklarıyla başa çıkmak zorunda iken, aynı zamanda doğal kaynakların korunması ve ticaretin sürdürülebilirliği gibi konuları da ele alırlar.",
+      "the gambler.jpg":
+          "Alexei, kumar oynama tutkusu yüzünden aşkını ve hatta maddi varlığını riske atar. Roman boyunca, Alexei'nin kumarhane maceraları ve duygusal çalkantıları anlatılırken, aynı zamanda toplumsal sınıf farkları ve insan doğası üzerine derinlemesine bir analiz sunulur.",
+      "the genealogy of morals.jpg":
+          " Alman filozof Friedrich Nietzsche'nin 1887'de yayımlanan bir eseridir. Bu kitap, Nietzsche'nin ahlaki değerlerin kökeni ve evrimi üzerine derinlemesine bir analiz sunar.",
+      "the gold bug.jpg":
+          "Legrand, Virginia'da yaşayan bir adamdır ve bir gün yalnızca bir böceğin izini takip ederek bir hazine haritası bulur. Bu harita, bir zamanlar korsanların kullanmış olduğu gizli bir hazineyi işaret etmektedir.",
+      "the golden bowl.jpg":
+          "Roman, Amerikalı sanat koleksiyoncusu Adam Verver ve kızı Maggie Verver'in İngiliz soylusu Prince Amerigo ile evliliği etrafında döner. Ancak, hikaye, Prince Amerigo'nun evli olduğu başka bir kadına, Charlotte Stant'a olan tutkusunu ve bu tutkunun ortaya çıkardığı karmaşık ilişkileri de içerir.",
+      "The great boer war.jpg":
+          "İngiliz İmparatorluğu ile Boer Cumhuriyetleri arasındaki çatışmaları, askeri stratejileri ve çeşitli savaş alanlarını ele alan bu kitap ayrıca, savaşın sosyal, politik ve askeri sonuçlarını da tartışır.",
+      "The History Of Mr. Polly.jpg":
+          "Alfred, bir dizi olayın ardından işini bırakır ve farklı maceralar aramaya başlar. Ancak, kaçış girişimleri beklenmedik sonuçlar doğurur ve Alfred, kendi hayatını yeniden değerlendirmek zorunda kalır. Sonunda, kendi mutluluğunu bulmak için içsel bir yolculuğa çıkar.",
+      "The Hunting of the Snark.jpg":
+          "Kitap, bir grup seyahatçının, gizemli ve hayali bir yaratık olan Snark'ı avlamak için çıktıkları macerayı anlatır. Seçkin bir grup, liderleri Bellman'ın komutası altında, Snark'ın peşine düşer ve çeşitli fantastik ve tuhaf maceralarla karşılaşır.",
+      "The Innocents Abroad, travel.jpg":
+          "Mark Twain dönemin Avrupa ve Ortadoğu toplumlarına ve kültürlerine dair eğlenceli ve bazen de alaycı bir bakış sunar. Twain'in mizah anlayışı ve hiciv yeteneği, okuyucuları hem güldürürken hem de düşündürürken, seyahat yazısı türünün önemli bir örneğini oluşturur.",
+      "the light.jpg":
+          "Fransız asker olan Jean Diaz'ın gözünden savaşı anlatır. Diaz, cephe hattında diğer askerlerle birlikte savaşırken, savaşın korkunç gerçekleriyle yüzleşir. Savaşın anlamsızlığı, ölüm korkusu ve insanın en kötü yanlarının ortaya çıkması, Diaz ve diğer askerlerin deneyimlediği şeyler arasındadır.",
+      "the history of england i.jpg":
+          "Hume'un tarih eseri, o dönemin çeşitli siyasi olaylarını, monarşiyi, parlamentoyu, dini çatışmaları ve İngiltere'nin genel gelişimini ele alır. Ancak, Hume'un tarih anlayışı modern tarihçilerinki gibi detaylı ve belge odaklı değildir.",
+      "the history of england ii.jpg":
+          "Hume'un tarih eseri, o dönemin çeşitli siyasi olaylarını, monarşiyi, parlamentoyu, dini çatışmaları ve İngiltere'nin genel gelişimini ele alır. Ancak, Hume'un tarih anlayışı modern tarihçilerinki gibi detaylı ve belge odaklı değildir.",
+      "the history of england iii.jpg":
+          "Hume'un tarih eseri, o dönemin çeşitli siyasi olaylarını, monarşiyi, parlamentoyu, dini çatışmaları ve İngiltere'nin genel gelişimini ele alır. Ancak, Hume'un tarih anlayışı modern tarihçilerinki gibi detaylı ve belge odaklı değildir.",
+      "the history of england iv.jpg":
+          "Hume'un tarih eseri, o dönemin çeşitli siyasi olaylarını, monarşiyi, parlamentoyu, dini çatışmaları ve İngiltere'nin genel gelişimini ele alır. Ancak, Hume'un tarih anlayışı modern tarihçilerinki gibi detaylı ve belge odaklı değildir. ",
+      "the history of england v.jpg":
+          "Hume'un tarih eseri, o dönemin çeşitli siyasi olaylarını, monarşiyi, parlamentoyu, dini çatışmaları ve İngiltere'nin genel gelişimini ele alır. Ancak, Hume'un tarih anlayışı modern tarihçilerinki gibi detaylı ve belge odaklı değildir.",
+      "the history of england vi.jpg":
+          "Hume'un tarih eseri, o dönemin çeşitli siyasi olaylarını, monarşiyi, parlamentoyu, dini çatışmaları ve İngiltere'nin genel gelişimini ele alır. Ancak, Hume'un tarih anlayışı modern tarihçilerinki gibi detaylı ve belge odaklı değildir.",
+      "the idiot.jpg":
+          "Prens Lev Nikolayeviç Myshkin'in hikayesini anlatır. Myshkin, zihinsel bir rahatsızlık nedeniyle uzun bir süre İsviçre'de tedavi gördükten sonra Rusya'ya döner. Ancak, sosyal ortamında ve çevresindeki insanlar arasında yaşadığı zorluklarla karşılaşır.",
+      "the inferno.jpg":
+          "savaşın cehennemine doğru bir yolculuğa çıkan bir grup askerin deneyimlerini konu alır. Askerler, savaşın korkunç gerçekleriyle yüzleşirken, insan doğasının karanlık yönlerini de keşfederler.",
+      "The Invisible Man.jpg":
+          "Roman, bir bilim adamı olan Griffin'in, kendisini görünmez kılacak bir formül geliştirmesiyle başlar. Ancak, bu deney sonrasında görünmezlik yeteneği, Griffin'in hayatını tamamen değiştirir ve onu kontrol edilemez bir hal alır.",
+      "The Island of Dr. Moreau.jpg":
+          "Denizci Edward bir gemi kazasi sonucu Dr.Moreau'nun adasina suruklenir.Bu adada, bir bilim insanı, hayvanlar üzerinde insan genleriyle oynayarak yürüttüğü korkunç deneylerle uğraşmaktadır. Moreau'nun yarattığı yarı insan yarı hayvan yaratıklar, adanın gerilim dolu atmosferini oluşturur.",
+      "the journal to stella.jpg":
+          "Esther Johnson ile olan ilişkisi, Swift'in hayatının önemli bir parçasını oluşturur. Mektuplarda, Swift'in kişisel düşünceleri, duyguları ve dönemin siyasi olaylarına dair yorumları bulunur. Mektuplar aracılığıyla Swift, Stella'ya sık sık onu düşündüğünü ve hissetiklerini ifade eder.",
+      "the king solomon.jpg":
+          "Quatermain, bir grup maceraperestle birlikte Afrika'nın derinliklerine doğru tehlikeli bir yolculuğa çıkar. Macera dolu bu yolculukta, kahramanlar çeşitli tehlikelerle karşılaşırken, efsanevi zenginlikleri aramaktadırlar.",
+      "The Man in the Brown Suits.jpg":
+          "Anne, Londra'daki sıradan yaşamından sıkılmıştır ve hayatına heyecan katmak için Afrika'ya gitmeye karar verir. Bir gemi yolculuğu sırasında tanıştığı gizemli bir adamın ölümüyle başlayan olaylar, Anne'i bir dizi tehlikeli olayın içine sürükler.",
+      "the masque of the red death.jpg":
+          "Hikaye, kırmızı ölüm adında ölümcül salgının hüküm sürdüğü ülkede,  zengin bir soylu olan Prens Prospero , salgından korunmak için kendisine ait kalede izole bir hayat yaşamaya karar verir. Kalede bir maskeli balo düzenler ve davetlileri, salgından korunmak için dış dünyadan soyutlanmış bir şekilde eğlenirler. Ancak, bir gece balo da, bir figür ortaya çıkar: Kızıl Ölüm'ün kendisi.",
+      "The Murder on the links.jpg":
+          "Hikaye, zengin bir Fransız adam olan Renauld'un öldürülmesiyle başlar. Olay yerine gelen Hercule Poirot, cinayeti çözmek için harekete geçer. Renauld'un ölümüyle birlikte, çeşitli şüpheler ve gizemler ortaya çıkar. ",
+      "The Mysterious Island.jpg":
+          "Amerikan İç Savaşı döneminde, bir grup kaçak tarafından savaştan kaçmak için kullanılan balonun, kasırga nedeniyle sürüklenmesi sonucu bir adaya düşmesiyle başlar. Balonun yolcuları, Güney Pasifik'teki bu gizemli adada hayatta kalmaya ve adanın sırlarını keşfetmeye çalışırlar.",
+      "the portrait of dorian gray.jpg":
+          "Baş karakter Dorian Gray, yakışıklı ve genç bir adamdır. Bir ressam olan Basil Hallward, Dorian'ın portresini çizerken, onun güzelliği ve gençliği karşısında büyülenir. Dorian, Lord Henry Wotton adında bir arkadaşı tarafından etkilenir ve hedonistik bir yaşam tarzını benimser.",
+      "The Prince and the Pauper.jpg":
+          "Prens Edward, İngiltere Kralı Henry VIII'in oğludur ve lüks bir yaşam sürmektedir. Tom Canty ise fakir bir ailenin çocuğudur ve sarayın yakınında yaşamaktadır. Bir gün, ikisi de birbirine benzeyen fiziksel özelliklere sahip olduklarını keşfederler ve birbirlerinin yerine geçmeye karar verirler. Ancak, bu beklenmedik sonuçlar doğurur ve her ikisinin de hayatı büyük ölçüde değişir.",
+      "The Sea Lady.jpg":
+          "Romanın ana karakteri, denizkızı olarak bilinen bir deniz yaratığı olan Nettie, insanları daha yakından tanımak için denizden çıkıp insanların arasına katılmaya karar verir. Ancak, insan toplumunda var olmak ve kabul görmek, beklediği kadar kolay olmayacaktır.",
+      "The Time Machine.jpg":
+          "Bir bilimadamı ve mucit olan bir karakterin, Zaman Makinesi adını verdiği bir icadıyla zaman içinde yolculuk yapma yeteneğini keşfetmesiyle başlar. Zaman Makinesi'ni kullanarak geleceğe doğru bir yolculuğa çıkar. Gelecekte, dünya üzerinde farklı insan türlerinin evrim geçirmiş olduğunu keşfeder.",
+      "the mystery marie roget.jpg":
+          " Marie Rogêt'nin gizemli bir şekilde ortadan kaybolması ve ardından ölü bedeni bulunmasıyla başlar. Cinayetin çözülmesi için polis, basın ve halk büyük bir ilgi gösterir, ancak gizem çözülemez. Bunun üzerine, C. Auguste Dupin, karmaşık ipuçlarını ve delilleri incelemeye karar verir.",
+      "the mystery of edwin drood.jpg":
+          "Drood'un kaybolması, okuyucuları ve diğer karakterleri endişelendirir ve Drood'un nişanlısı olan Rosa Bud'un da içinde bulunduğu bir dizi şüpheli ortaya çıkar. Romanın sonuna yaklaşılırken, gizemli olayların çözülmesi beklenirken, Dickens'ın ani ölümü nedeniyle hikaye tamamlanmamıştır.",
+      "the mystery of the blue train.jpg":
+          "Hikaye, mavi bir trende yaşanan bir cinayetle başlar. Tren yolcularından biri olan Ruth Kettering'in cesedi, Poirot'un dikkatini çeker ve cinayeti çözmeye çalışır. Cinayetin ardında büyük miktarda bir mirasın olduğu ortaya çıkar ve olaylar, bir dizi karmaşık ipucu ve şüpheli ile gelişir.",
+      "The New Machiavelli.jpg":
+          "Remington, siyasi güç ve başarıya ulaşmak için her türlü yolu denemeye kararlıdır. Ancak, bu hırsı ve tutkusu, kişisel ve ahlaki zorluklarla karşılaşmasına neden olur. Remington, Machiavelli'nin prensiplerini takip ederek politik arenada yükselmeye çalışırken, kendi içsel çatışmalarıyla da mücadele etmek zorundadır.",
+      "the prince.jpg":
+          "Machiavelli, kitapta hükümdarlara, güçlerini korumak ve genişletmek için her türlü yöntemi kullanmalarını tavsiye eder. İdealist ve ahlaki prensiplerin gerçek dünyada yetersiz kaldığını savunur ve politikanın pragmatik bir yaklaşım gerektirdiğini öne sürer.",
+      "the raven.jpg":
+          "Hikaye, bir kış gecesi bir adamın, yaşadığı yas ve depresyonun etkisi altında yalnızlık içinde oturduğu odada bir ziyaretçinin gelmesiyle başlar. Ziyaretçi, bir karga olan Raven'dır. Karga, insanın ruhunu sorgular ve adamın iç dünyasını yansıtır.",
+      "The Red and The Black.jpg":
+          "Julien, bir papazın oğlu olarak düşük bir sosyal sınıftan gelir, ancak kendi hayatını şekillendirme arzusu ve zekasıyla öne çıkar. Roman, Julien'in zengin bir ailenin konağında öğretmenlik yapmaya başlamasıyla başlar ve ardından yükselme arzusu ve aşk ilişkileriyle dolu bir yolculuğa çıkar.",
+      "The Research Magnificent.jpg":
+          "Porphyry, bilgiye olan merakıyla tanınan biridir ve insanlığın geleceği hakkında derin düşüncelere sahiptir. Roman, Porphyry'nin hayatındaki dönüm noktalarını ve içsel sorgulamalarını takip ederken, bilimin ve teknolojinin insanlığı nasıl etkilediğini ve değiştirdiğini inceler.",
+      "The Secret Adversary.jpg":
+          "1919 Londra'sında, terhis olmuş asker Tommy Beresford, savaş gönüllüsü Prudence, Tuppence Cowley ile tanışır. İkisi de işsiz ve beş parasızdır. 'Young Adventurers, Ltd.' şirketini kurarlar. Bay Whittington, Tuppence'ı çalışmalarını sunması için takip eder,",
+      "The sleeper awakes.jpg":
+          "Graham, bir hastalık nedeniyle uzun bir uykuya dalar ve yaklaşık iki yüz yıl sonra uyanır. Uyandığında, dünya büyük ölçüde değişmiştir; insanlar, büyük şehirlerde yaşamakta ve toplum, devasa bir şirket tarafından yönetilmektedir.",
+      "the soul of a nation.jpg":
+          " Gibbs, kitabında Birinci Dünya Savaşı sırasında İngiltere'nin ruh halini ve toplumsal atmosferini inceler. Savaşın etkileri, halkın duygusal tepkileri ve savaşın toplumdaki derin etkileri gibi konular ele alınır.",
+      "The Thomas Jefferson writes.jpg":
+          " Bu eserler, Amerikan tarihindeki belirli olaylarla ilgili Jefferson'ın görüşlerini, siyasi fikirlerini ve ideallerini ortaya koyar. Ayrıca, Jefferson'ın kişisel düşünceleri ve duyguları da bu yazılı eserlerde bulunabilir.",
+      "the trial.jpg":
+          "Hikaye, baş karakter Josef K.'nın beklenmedik bir şekilde tutuklanması ve ardından yargılanmasıyla başlar. Ancak, K. neyle suçlandığını tam olarak bilmez ve sürecin neden olduğunu anlamaya çalışırken kendini karmaşık bir hukuki sistemin içinde bulur.",
+      "The Twilight of the Idols.jpg":
+          "Kitap, Nietzsche'nin diğer eserlerinde ele aldığı birçok temayı genişletir ve derinleştirir. Nietzsche,  ahlaki değerlerin, dinin ve kültürel normların eleştirisini yapar. Kitap, Batı medeniyetinin temellerini sorgular ve insanlığın değerlerinin çöküşünü tartışır.",
+      "the voyage of the beagle.jpg":
+          "Kitap, Darwin'in dünya çapında farklı coğrafi bölgelerde yaptığı araştırmaları, gözlemleri ve keşifleri anlatır. Darwin, Güney Amerika, Galapagos Adaları, Avustralya ve Yeni Zelanda gibi bölgelerde birçok farklı türü incelemiş ve farklı türler arasındaki ilişkileri gözlemlemiştir.",
+      "the voyage out.jpg":
+          "Rachel Vinrace'in İngiltere'den Güney Amerika'ya yapılan bir deniz yolculuğuna katılir. Rachel, yolculuk sırasında farklı insanlarla tanışır ve çeşitli deneyimler yaşar. Yolculuk boyunca, Rachel kendi kimliğini ve yerini bulmaya çalışırken, çevresindeki insanların ilişkileri ve toplumsal normlar hakkında da derin düşüncelere dalar.",
+      "The War in the Air.jpg":
+          "Bir ingiliz subayi bindigi hava balonunda tanistigi alman bilim adami tarafindan icat edilen devrim niteliginde bir savas ucagina rastlar. Ucak kullanilmak icin calinir ve dünya çapında bir savaşın patlak vermesine neden olur.",
+      "The war in the east japan.jpg":
+          "Evans ve Peattie, Japon İmparatorluk Ordusu'nun çeşitli savaş stratejilerini, operasyonlarını ve askeri harekatlarını detaylı bir şekilde inceler. Kitap, Japon ordusunun Çin, Kore, Mançurya ve diğer Doğu Asya ülkelerine yönelik saldırılarını ve işgalini açıklar.",
+      "the war of the worlds.jpg":
+          "Hikaye, Marslıların Dünya'ya ani bir saldırısıyla başlar. Marslılar, ünlü üç bacaklı makinelerini ve ölümcül ısı raylarını kullanarak insanları ve şehirleri yok eder. Romanın ana karakteri, ismi verilmemiş bir İngiliz adamıdır, olayları yaşadığı yerden anlatır.",
+      "The Wheels of Chance.jpg":
+          "Hikaye, bir bisiklet tamircisi olan Hoopdriver'ın, izinsiz bir şekilde bisikletle bir maceraya atılmasını konu alır. Hoopdriver, sıradan bir yaşam sürerken, tesadüfen tanıştığı ve aşık olduğu bir kadınla birlikte romantik bir yolculuğa çıkar.",
+      "the whıte company.jpg":
+          "Hikaye, genç ve cesur bir İngiliz askeri olan Alleyne Edricson'un maceralarını takip eder. Alleyne, kendisini adalete ve şövalyeliğe adamış bir grup savaşçıya, The White Company'e katılır. Bu grup, Fransızlarla savaşan İngiliz ordusuna katılmak üzere yola çıkar.",
+      "The wizard of wall street and his wealth.jpg":
+          "Bu kitap, 20. yüzyılın başında ABD'nin finans dünyasında büyük etkiye sahip olan John D. Rockefeller'ın hayatını ve servetini anlatır. Kitap, Rockefeller'ın doğumundan itibaren hayatını, iş hayatındaki yükselişini ve petrol endüstrisindeki liderliğini detaylı bir şekilde inceler.",
+      "The Wonderful Visit.jpg":
+          "Hikaye, İngiltere'de sıradan bir kasabada geçerken, bir melek olan Ariel'in beklenmedik bir ziyaretiyle başlar. Ariel, bir melek olarak dünyada gezinirken, kasabada bir dizi ilginç olaya neden olur ve insanlar üzerinde derin etkiler bırakır.",
+      "The World Set Free.jpg":
+          "Hikaye, 20. yüzyılın başlarında geçerken, insanlık nükleer enerjiyi keşfeder ve bunu silah olarak kullanır. Bu silahlar, şehirleri yok eden ve dünyayı değiştiren yıkıcı güçlere sahiptir.",
+      "the wuthering heights.jpg":
+          "Hikaye, Heathcliff adında gizemli bir yetim çocuğun, Earnshaw ailesi tarafından yetiştirilmesiyle başlar. Heathcliff, kaba ve sert bir çocuk olarak tanıtılır, ancak zamanla ailenin kızı Catherine Earnshaw'a olan derin aşkı hikayenin merkezine yerleşir.",
+      "the-sorrows-of-young-werther.jpg":
+          "Roman, genç ve duygusal Werther'in mektupları aracılığıyla okuyucuya sunulur. Werther, güzel Charlotte'e olan aşkını anlatırken, içinde bulunduğu acıları ve çatışmaları da ifade eder. Ancak, Charlotte'in başka bir adamla evlenme kararı almistir.",
+      "this side of paradise.jpg":
+          "Roman, Princeton Üniversitesi'nde okuyan genç ve zengin Amory Blaine'in yaşamını anlatır. Amory'nin eğitimi, ilişkileri ve kişisel gelişimi üzerine odaklanan hikaye, Amerikan gençliğinin ve toplumunun döneminin bir portresini çizer.",
+      "Three Sunsets and Other Poems.jpg":
+          "Carroll'ın mizahi ve ironik üslubu, bu şiirlerde de kendini gösterir. Three Sunsets adlı şiir, doğa ve insan duyguları üzerine derinlemesine bir düşünce sunarken, diğer şiirler de farklı konuları ele alır.",
+      "three-essays-on-the-theory-of-sexuality.jpg":
+          "Kitapta, Freud cinselliğin doğası, gelişimi ve insan psikolojisi üzerindeki etkileri üzerine kapsamlı bir analiz sunar. Freud, cinsel dürtülerin çocuklukta nasıl geliştiğini, cinsel kimlik ve cinsel yaşamın önemini ve cinselliğin toplumsal ve kültürel etkilerini inceler.",
+      "Tom Sawyer Abroad.jpg":
+          "Hikaye, Tom, Huck ve Jim'in bir zeplinle dünya turuna çıkmalarıyla başlar. Ancak, zeplin rotasından sapar ve uzak bir yerde, tanıdık olmayan bir ülkede bir adaya inerler. Burada, tuhaf ve komik olaylarla karşılaşırlar ve adanın yerlileriyle etkileşime girerler.",
+      "Tom Sawyer, Detective.jpg":
+          "Tom ve Huck'ın, eski bir köle olan Jim'in kaybolan bir defineyi bulmak için maceraya atilir. İkilinin izleyebileceği tek kişi olan Jim, önceleri bir hırsızlık suçlaması nedeniyle kaçmıştır. Tom ve Huck, Jim'in masumiyetini kanıtlamak için iz sürerler ve bu süreçte bir dizi macera yaşarlar.",
+      "Tono-Bungay.jpg":
+          "Roman, bir tür tılsım ve panzehir olan Tono-Bungay adlı mucizevi bir ilacın yaratılmasını ve bu ilacın etrafında dönen olayları konu alır. Başlangıçta, bu ilaç tüccarının yeğeni George Ponderevo'nun çocukluk anılarıyla başlar ve daha sonra George'un yetişkinlik dönemine geçer.",
+      "totem-and-taboo.jpg":
+          "Totemizm, bir grup insanın kendilerini bir hayvana veya nesneye bağlı hissettiği ve bu nesneyi kutsal kabul ettiği bir inanç sistemidir. Tabu ise toplumun belirli davranışları yasaklaması ve bu yasakları kutsal saymasıdır.",
+      "thus spake zarathustra.jpg":
+          "Zerdüşt, insanlığa yeni bir ahlak ve değerler sistemi getirmek amacıyla dağlara çekilir ve orada on yıl boyunca düşünür. Sonunda, insanlara 'Übermensch' (ötesi-insan) fikrini getirir ve geleneksel ahlaki değerlerin ötesine geçmeyi önerir.",
+      "the white nights.jpg":
+          "Roman, genç bir adamın St. Petersburg'da tanıştığı ve aşık olduğu bir genç kadınla geçirdiği dört beyaz gecenin hikayesini konu alır. Genç adam, gizemli ve melankolik bir kadın olan Nastenka ile tanışır ve ona hislerini açar. Ancak, Nastenka'nın hayatında başka bir adam vardir.",
+      "turkun atesle imtihani.jpg":
+          "Kitap, milli mücadelenin çeşitli aşamalarını ve bu süreçte yaşanan kahramanlıkları ele alır. Ana karakterler arasında, çeşitli sosyal ve ekonomik arka planlardan gelen gençlerin yer aldığı bir grup vardır.",
+      "Twenty Thousand Leagues Under the Sea.jpg":
+          "Roman, Nautilus adlı bir denizaltıda seyahat eden Profesör Aronnax, denizbiyoloğu Conseil ve balina avcısı Ned Land'in maceralarını anlatır. Nautilus'un kaptanı, gizemli bir deniz adamı olan Kaptan Nemo'dur.",
+      "Under Sentence of Death.jpg":
+          "Öykü, denizaltı mürettebatının bir gemi batırma operasyonunda yakalanmasının ardından yaşadıkları sonu gelmez maceraları ele alır. Mürettebat, gemi batırma faaliyetlerinin uluslararası hukuka aykırı olması nedeniyle ölüm cezasına çarptırılır ve denizaltının içinde mahkûm edilirler.",
+      "Vicar of Wakefield.jpg":
+          " Rahip Primrose, uysal ve erdemli bir karakterdir ve ailesiyle birlikte sakin bir yaşam sürmektedir. Ancak bir dizi şanssız olay sonucunda ailesi zor zamanlar geçirmeye başlar.",
+      "vurun kahpeye.jpg":
+          "Romanda, idealist İstanbullu öğretmen Aliye’nin Anadolu’da bir kasabaya gidişi ve bölgede Milli Mücadele düşüncesine destek faaliyetleri aktarılır.",
+      "white bird.jpg":
+          " James, Elspeth adında bir kadına derinden âşık olmuştur. Ancak, Elspeth zaten denizde olan bir adam olan David Webster ile nişanlanmıştır. Buna rağmen, James Elspeth'in sonunda onu seçeceğini umut etmeye devam eder.",
+      "Wilhelm Meister.jpg":
+          "Wilhelm Meister, hayatını keşfetme ve kendini gerçekleştirme arayışında olan bir gençtir. İşleyici bir aileden gelmesine rağmen, sanat ve tiyatro dünyasına ilgi duyar.",
+      "yasadigim gibi.jpg":
+          "Kitap, Tanpınar'ın çocukluk yıllarından başlayarak yetişkinliğine kadar olan dönemi kapsar. Yazar, ailesi, eğitimi, edebi ve entelektüel merakları, çevresiyle ilişkileri ve edebiyat dünyasındaki deneyimleri hakkında okuyucuya içten bir şekilde bilgi verir.",
+      "yeni dunya.jpg":
+          "13 hikâyesinden oluşan Kitap yazarın hikâye alanında önemli bir yetkinliğe ulaştığının göstergesi olması bakından önemlidir. İçerik olarak kasaba ve köy yaşamı dışında düşkün kadınları ele alan hikâyeler önemli bir yer tutar.",
+      "yezidin kizi.jpg":
+          "bir gemi seyahati sırasında başlayıp uçsuz bucaksız Suriye çöllerinde devam eden gizemli bir aşk...",
+      "zadig.jpg":
+          " Zadig, hayatının çeşitli dönemlerinde felaketlerle karşılaşır ve bu felaketler onun karakterini şekillendirir. Zadig, hikaye boyunca bilgelik, adalet ve doğruluk gibi kavramları araştırır ve bu süreçte farklı insanlarla karşılaşır.",
+      "A Christmas Carol.jpg":
+          "Hikaye, Scrooge'un Noel gecesi eski ortağı Jacob Marley'in hayaleti tarafından ziyaret edilmesiyle başlar. Marley, Scrooge'u kendi bencillik ve sevgisizlik dolu yaşamının sonuçları konusunda uyarmak için gelir ve Scrooge'u üç hayaletin ziyaret edeceği bir yolculuğa çıkmaya ikna eder.",
+      "A Modern Utopia.jpg":
+          "Roman, en çok, Samuray olarak bilinen gönüllü bir soylular sınıfının statik değil kinetik bir dünya devletini etkili bir şekilde yönetebileceği ve böylece ilerlemeyi siyasi istikrarla birleştirme sorununu çözebileceği fikriyle tanınır.",
+      "a plug year.jpg":
+          "Daniel Defoe tarafından Londra'daki büyük veba salgını sırasında yaşananları anlatan bir günlük formunda kaleme alınmıştır. Salgının şehre yayılması, insanların karşılaştığı zorluklar, hastalığın yayılma şekilleri ve toplumun bu trajediye tepkileri gibi konular eserde detaylı bir şekilde ele alınır.",
+      "america.jpg":
+          "Hikaye, genç bir adam olan Karl Rossmann'ın Amerika'ya gönderilmesiyle başlar. Karl, ailesinin utanç verici bir olay nedeniyle Avrupa'dan sürülür ve Amerika'ya gitmek zorunda kalır.",
+      "animal farm.jpg":
+          "Hikaye, bir çiftlikte yaşayan hayvanların ayaklanması ve çiftliği ele geçirerek insan yönetimini devirmesiyle başlar. Ancak, zamanla çiftliğin yönetimi, domuzlar önderliğindeki hayvanlar arasında bir hiyerarşi oluşturulur ve çiftlikteki güç kavgaları başlar.",
+      "anna karenina.jpg":
+          " Anna'nın mutsuz bir evliliğe sahip olmasını ve ardından genç ve karizmatik subay Kont Vronsky ile olan yasak aşkını konu alır. Anna'nın aşkı ve toplum tarafından dışlanması, onun ruhsal çöküşüne yol açar ve trajik bir sonla sonuçlanır.",
+      "A London Life.jpg":
+          "Konu, çökmekte olan bir evlilik ve bunun birçok insan, özellikle de yakında boşanacak olan karısının kız kardeşi Laura Wing üzerindeki etkisi etrafında döner.",
+      "art of war.jpg":
+          "Sun Tzu'nun Savaş Sanatı ,  Çinli askeri stratejist Sun Tzu tarafından yazılan klasik bir metindir. MÖ 5. yüzyıla tarihlenen bu eser, askeri strateji ve liderlik üzerine derinlemesine bilgiler içerir.",
+      "ayesha the return of she.jpg":
+          "Ayesha, The Return of She, İngiliz Viktorya dönemi yazarı H. Rider Haggard'ın 1905'te She'nin devamı olarak yayınlanan gotik-fantastik romanıdır. Kronolojik olarak Ayesha ve Allan Quatermain serisinin son romanıdır.",
+      "cadi.jpg":
+          "dul Naşit Nefi Efendi yeniden evlenmiştir ve evinin yalısında cadılar dolaşmaya başlamıştır. Naşit Nefi Efendi'nin ilk eşi Binnaz Hanım'ın cadı olarak geri döndüğü, Naşit Nefi Efendi ve eşlerine musallat olarak onlara rahat vermediği gibi olaylar zincirinde çıkmaza girilir.",
+      "boon.jpg":
+          "Boon, bir grup entelektüel ve düşünürün, insanlığın ilerlemesi ve evrimsel yolculuğu üzerine yaptığı tartışmaları konu alır.",
+      "ask batagi.jpg":
+          "ailesinin şımarık bir şekilde yetiştirdiği ayran gönüllü sürekli kadınlardan sıkılan iki kez evlilik yapmış Naki Efendi'nin üçüncü eşi Bedia ile olan evliliğini anlatmış.Eski İstanbul yaşayışı , aşkları, iliskilerin ne derece bozuk olduğunu gözler önüne sermiş.",
+      "Anticipations.jpg":
+          "Wells, Anticipations'da, 20. yüzyılın başlarında toplumsal ve teknolojik gelişmeleri, siyasi değişimleri ve insanlığın geleceğini nasıl şekillendirebileceğini tartışır.",
+      "aski memnu.jpg":
+          "Bihter, kendisinden yaşça büyük Adnan Bey ile evlendirilmiş, ancak daha sonra aşık olduğu Behlül ile yasak bir ilişki yaşamaya başlamıştır. Diğer taraftan, Adnan Bey'in yeğeni olan Nihal, Behlül'e platonik bir aşk beslemektedir.",
+      "bealby.jpg":
+          "Romanın baş karakteri olan Bealby, kendisini istemediği bir aile ortamından kurtarmak için kaçar ve bir otelde iş bulur. Ancak, burada da kendisini bir dizi olayın içinde bulur ve beklenmedik maceralara atılır.",
+      "kipps.jpg":
+          "Kipps, küçük bir kasabada bir terzi çıraklığı yaparken ansızın miras kalan bir servetle zengin bir adam haline gelir. Bu servet sayesinde daha yüksek sosyal sınıflara yükselir ve İngiliz toplumunun çeşitli kesimleriyle tanışır.",
+      "kirik hayatlar.jpg":
+          "Kitaptaki olaylar Osmanlı’nın son döneminde geçmektedir. Osmanlı’nın son döneminde Türk halkında batıya karşı körü körüne bir özenti oluşur. Batıdan alınması gereken teknoloji, ilim, bilim değilde; bizim yaşantımıza ters düşen kültürü taklit edilir.",
+      "Italian Hours.jpg":
+          "Kitaptaki olaylar Osmanlı’nın son döneminde geçmektedir. Osmanlı’nın son döneminde Türk halkında batıya karşı körü körüne bir özenti oluşur. Batıdan alınması gereken teknoloji, ilim, bilim değilde; bizim yaşantımıza ters düşen kültürü taklit edilir.",
+      "little dorrit.jpg":
+          "Romanın ana karakteri olan Amy Dorrit, London'daki Marshalsea Hapishanesi'nde doğup büyümüş bir genç kızdır. Babası, borçları nedeniyle hapis hayatı yaşayan bir adamdır.",
+      "little men.jpg":
+          "Hikaye, Little Women'da tanıtılan March ailesinin üyelerinden biri olan Jo March'ın yaşamını sürdürdüğü Plumfield adlı okulun etrafında döner. Jo ve kocası Professor Bhaer, Plumfield adlı bir çocuk okulu açarlar ve bu okulda farklı yaşlardaki çocuklar bir arada eğitim görürler.",
+      "little woman.jpg":
+          "Ana karakterlerden biri olan Jo March ve üç kız kardeşi, Amerikan İç Savaşı döneminde yaşayan sıradan bir aileden gelirler. Roman, kız kardeşlerin ergenlikten yetişkinliğe geçiş sürecinde yaşadıkları zorlukları, sevinçleri, aşkları ve hayal kırıklıklarını konu alır.",
+      "meditations.jpg":
+          "Marcus Aurelius, Roma İmparatorluğu'nun bir hükümdarı olarak günlük yaşamın getirdiği zorluklarla karşılaşırken, Stoacı felsefenin öğretilerine sıkı sıkıya bağlı kalır. Meditations, onun içsel düşüncelerini ve ruhsal mücadelelerini yansıtırken, aynı zamanda insanın doğası, adalet, erdem ve kader gibi evrensel konuları da ele alır.",
+      "metamorphosis.jpg":
+          "Roman, Gregor Samsa adında bir adamın beklenmedik bir dönüşüm geçirmesiyle başlar. Bir sabah uyandığında, Gregor kendini bir böceğe dönüşmüş olarak bulur. Bu dönüşüm, hem fiziksel hem de psikolojik bir yabancılaşma ve izolasyon sürecini başlatır.",
+      "Les Miserables.jpg":
+          "Valjean, haksız yere on dokuz yıl hapis cezasına çarptırılmıştır ve bu cezadan sonra topluma yeniden entegre olmaya çalışırken, ahlaki bir yolculuğa çıkar. Onunla birlikte, polis memuru Javert gibi diğer karakterler de yer alır.",
+      "Middlemarch.jpg":
+          "Hikaye, genç ve idealist Dorothea Brooke'un evlilikle ilgili hayalleriyle başlar. Dorothea, zengin ancak yaşlı bir din adamı olan Bay Casaubon'a evlenir, ancak evlilik hayallerinin tam tersi bir hayatla karşılaşır.",
+      "pickwick club.jpg":
+          "Roman, Samuel Pickwick adında zengin ve neşeli bir adamın liderliğinde bir araya gelen bir grup kişiden oluşan Pickwick Kulübü'nün maceralarını takip eder. ",
+      "mor salkimli ev.jpg":
+          "Mor Salkımlı Ev, Osmanlı İmparatorluğu'nun son dönemlerinde, İstanbul'da yaşayan bir ailenin hikayesini anlatır. Romanın baş karakteri Feride, modernleşme ve gelenek arasında sıkışıp kalan bir genç kadındır. ",
+      "othello.jpg":
+          "Othello, William Shakespeare tarafından yazılmış ünlü bir trajedi oyunudur. Oyun, kıskançlık, ihanet ve ırkçılık gibi temaları işler ve dramatik bir şekilde bir asker olan Othello'nun trajik düşüşünü anlatır.",
+      "odysey.jpg":
+          "Odyssey, sadakat, aşk, cesaret, onur, kurnazlık ve adalet gibi evrensel temaları işler. Ayrıca, Homeros'un destanı, Antik Yunan mitolojisinin, törelerin ve değerlerin zengin bir portresini sunar.",
+      "peter pan.jpg":
+          "Peter Pan, J.M. Barrie tarafından yazılan ünlü bir çocuk kitabıdır. Hikaye, Peter Pan adındaki bir çocuk ile Wendy, John ve Michael adındaki üç kardeşin fantastik maceralarını anlatır.",
+      "under fire.jpg":
+          "Roman, Fransız bir taburunun bir yıllık cephede geçen zamanını ve askerlerin günlük yaşamını, savaşın korkunç gerçekleriyle yüzleşmelerini anlatır.",
+      "wanders.jpg":
+          "Roman, Ove'nin Norveç kırsalında gezinirken yaşadığı maceraları ve karşılaştığı çeşitli karakterleri anlatır. Ove, toplumun normlarına uymayan biridir ve geleneksel yaşam biçimlerine karşı çıkar. ",
+      "peter pan in kensington gardens.jpg":
+          "Hikaye, Peter Pan'in bebekken kaybolmasıyla başlar ve Kensington Bahçeleri'nde yaşadığı fantastik maceralarla devam eder. Peter, bahçelerdeki diğer çocuklarla tanışır, hayvanlarla konuşur ve tılsımlı bir dünyanın içine çekilir. ",
+      "sherlock holmes.jpg":
+          "Holmes, zeki ve dikkatli bir dedektiftir ve olayları çözmek için gözlemlerini ve mantığını kullanır. Serinin birçok hikayesinde, Holmes ve Watson, Londra'nın sokaklarında ve dönemin diğer yerlerinde, cinayetler, hırsızlıklar, kayıp kişiler ve gizemli olaylarla karşı karşıya gelirler.",
+      "robinson crouse.jpg":
+          "Roman, bir gemi kazasından sonra uzak bir adaya düşen ve orada yalnız başına hayatta kalmaya çalışan İngiliz denizci Robinson Crusoe'nun hikayesini anlatır. Crusoe, adada yıllar geçirirken hayatta kalmak için mücadele eder, barınaklar inşa eder, yiyecek bulur ve kendisini adada yalnız hissetmemek için zamanını çeşitli faaliyetlerle doldurur.",
+      "ruh adam.jpg":
+          " Romanda hayatını askerliğe adamış bir adamın askerlik mesleğinden atıldıktan sonra yaşadığı ruhsal durumu, bir aşk çıkmazı içine düşmesi, aklı ve kalbi arasında kalmasından dolayı kendi nefsi ile olan mücadelesi anlatılır.",
+      "aydakı kadın.jpg":
+          "Leyla çocuksuz evli bir kadındır. Once Suat'la sevişmiş, sonra izah edilemeyecek bir ruh hali ile Refik'le evlenmiştir.",
+      "emma.jpg":
+          "Emma, gençlik gururu ve romantik yanlış anlamalar hakkında bir romandır. Roman, kurgusal bir köy olan Highbury'de ve köyün etrafındaki mülkler Hartfield, Randalls ve Donwell Abbey'de geçmekte ve birkaç aile arasındaki ilişkileri konu almaktadır.",
+      "kurk mantolu madonna.jpg":
+          "Raif Efendi, içine kapanık, melankolik ve dış dünyaya uyum sağlamakta zorlanan bir karakterdir. Hayatı boyunca pek çok zorluğa katlanmış ve haksızlıklara karşı gelmekte başarısız olmuştur. Sevmediği bir kadınla evlenmiş ve çocukları olmuştur, ancak kendi isteklerine uygun bir hayat yaşayamamıştır. Gerçekten hissettiği tek mutlu anı günlüğüne yazmıştır.",
+      "Love and Mr Lewisham.jpg":
+          "Romanın başında Bay Lewisham, Sussex'teki bir erkek okulunda 18 yaşında bir öğretmendir ve yılda kırk pound kazanmaktadır. Akrabalarını ziyarete gelen Ethel Henderson ile tanışır ve ona aşık olur"
+}
